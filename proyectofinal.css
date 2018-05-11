@@ -88,8 +88,11 @@ button {
     
 }
 .centrado{
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
+        bottom: 50px;
+        right: 625px;
+    display:block;
+
   }
   
   
