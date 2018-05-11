@@ -10,7 +10,7 @@
     margin-left: 40px;
     float: left;
     height: 500px;
-    box-shadow: rgba(0,0,0,0.5) 2px 2px 2px;
+    box-shadow: rgba(0,0,0,0.5) 8px 8px 8px;
 }
 #tarjeta1:hover{
     background-color: rgb(218, 38, 14);
@@ -32,6 +32,7 @@
     float: right;
     box-shadow: 10px;
     height: 500px;
+    box-shadow: rgba(0,0,0,0.5) 8px 8px 8px;
 }
 #tarjeta2:hover{
     background-color: rgb(219, 217, 86);
