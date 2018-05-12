@@ -5,7 +5,7 @@
     text-align: center;
     color: black;
 
-    margin-top: 80px;
+    margin-top: 60px;
     margin-right: 120px;
     margin-left: 40px;
     float: left;
@@ -14,7 +14,7 @@
 }
 #tarjeta1:hover{
     background-color: rgb(218, 38, 14);
-    box-shadow: inset 0 0 0 3px rgb(102, 98, 98);
+    box-shadow: inset 0 0 0 3px rgb(15, 14, 14);
     transform: scaleY(1.2);
 
 
@@ -26,7 +26,7 @@
     z-index: -1;
     text-align: center;
     color: black;
-    margin-top: 80px;
+    margin-top: 60px;
     margin-right: 40px;
     margin-left: 120px;
     float: right;
@@ -36,7 +36,7 @@
 }
 #tarjeta2:hover{
     background-color: rgb(219, 217, 86);
-    box-shadow: inset 0 0 0 3px rgb(102, 98, 98);
+    box-shadow: inset 0 0 0 3px rgb(14, 13, 13);
     transform: scaleY(1.2);
 
 
@@ -60,7 +60,7 @@ button:after {
     left: 0px;
     width: 100%;
     position: absolute;
-    background: #3a9999;
+    background: #359494;
     border-radius: 5px;
     content: 'NEXT';
     transform-origin: left bottom;
